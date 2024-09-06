@@ -46,7 +46,7 @@ This repository contains the code and resources for performing two key data anal
    git clone https://github.com/yohannestayez/Telecommunication-dataset-analysis.git
 Navigate into the project directory:
 
-    ```bash
+    
     cd your-repository
 Install the required libraries: 
 
