@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Toshiba/Documents/Kifiya/week%202/notebooks/mlruns/0/84df5a163add40d882b0b7cb5d873345/artifacts
+end_time: 1725887586515
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 84df5a163add40d882b0b7cb5d873345
+run_name: persistent-bird-837
+run_uuid: 84df5a163add40d882b0b7cb5d873345
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725887572729
+status: 3
+tags: []
+user_id: Toshiba
