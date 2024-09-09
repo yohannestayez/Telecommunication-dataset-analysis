@@ -7,7 +7,7 @@ This repository contains the code and resources for performing two key data anal
 
 1. **User Overview Analysis**: This involves exploring user behavior based on data sessions and identifying trends in handset usage and user engagement metrics.
 2. **User Engagement Analysis**: This focuses on analyzing user engagement metrics, normalizing data, and applying clustering techniques to segment users based on their engagement.
-
+```
 ## Project Structure
 ├── .vscode/
 │   └── settings.json
@@ -29,7 +29,7 @@ This repository contains the code and resources for performing two key data anal
 └── scripts/
     ├── __init__.py
     └── README.md
-
+```
 
 ## Getting Started
 
@@ -46,8 +46,11 @@ This repository contains the code and resources for performing two key data anal
    git clone https://github.com/yohannestayez/Telecommunication-dataset-analysis.git
 Navigate into the project directory:
 
-cd your-repository
-Install the required libraries: pip install -r requirements.txt
+    
+    cd your-repository
+Install the required libraries: 
+
+    pip install -r requirements.txt
 
 
 ## Tasks
